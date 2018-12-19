@@ -35,8 +35,11 @@
 
 //console.log(colors);
 
-function greet(firstName) {
-    console.log("Hello " + firstName);
-};
+//function greet(firstName) {
+  //  console.log("Hello " + firstName);
+//};
+
+//greet('Dan');
+
 
 greet('Dan');
